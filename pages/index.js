@@ -16,6 +16,8 @@ export default function Home() {
 
         <h4>Watch out for improvements in this space</h4>
 
+        <h6>This little website is currently hosted using Vercel (and that just won't cut it). This site will soon be moved to EC2.</h6>
+
         {/* <p className={styles.description}>
           Get started by editing{' '}
           <code className={styles.code}>pages/index.js</code>
